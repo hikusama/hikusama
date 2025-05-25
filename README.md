@@ -11,10 +11,4 @@
 <br>
 <img src="camel.gif" width="100" />
 <br>
-
-### Krazy falafel hacker  
-<br>
-<p>This guy? He eat falafel with one hand, hack with the other. Very haram for firewalls isn't?.</p>
-<br>
-<img src="guy.png" width="100" />
-<br>
+ 
