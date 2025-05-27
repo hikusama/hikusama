@@ -5,10 +5,3 @@
 <img src="cat-typing.gif" width="100" />
 <br>
 
-### Krazy camel 
-<br>
-<p>This camel is krazy, yalla! Jumping and Running like he just kick the balls of donald trump isn't?. Maybe he code too?</p>
-<br>
-<img src="camel.gif" width="100" />
-<br>
- 
