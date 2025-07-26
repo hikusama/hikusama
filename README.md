@@ -3,10 +3,16 @@ Krazy vibe coder
 </h2>
 
  
-<img src="cat-typing.gif" width="100" />
+<img align="center" src="cat-typing.gif" width="100" />
 
-<div align="center"> 
-[![Hits](https://hits.sh/github.com/hikusama.svg?style=flat-square)](https://hits.sh/github.com/hikusama/)
+<div style="text-align: center; margin-top: 20px;">
+  <p style="font-size: 18px;">👀 Visitor Count</p>
+  <a href="https://hits.sh/github.com/hikusama/hikusama/" target="_blank">
+    <img 
+      src="https://hits.sh/github.com/hikusama/hikusama.svg?style=flat-square" 
+      alt="Visitor Count" 
+    />
+  </a>
 </div>
 
 
