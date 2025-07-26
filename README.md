@@ -2,6 +2,7 @@
 Krazy vibe coder 
 </h2>
 
+</br>
   <div align="center">
  
 <img align="center" src="cat-typing.gif" width="100" />
