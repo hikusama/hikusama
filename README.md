@@ -6,8 +6,7 @@ Krazy vibe coder
 <img src="cat-typing.gif" width="100" />
 
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{hikusama}/count.svg" alt="Visitor's Count" />
+[![Hits](https://hits.sh/github.com/hikusama.svg?style=flat-square)](https://hits.sh/github.com/hikusama/)
 </div>
 
 
