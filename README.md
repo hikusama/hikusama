@@ -17,7 +17,10 @@ Krazy vibe coder
     </a>
   </div>
 
-  ## ⚡️ Stats
+<div align=center>
+
+  <h2>⚡️ Stats </h2>
+  </div>
 
 <br>
 
