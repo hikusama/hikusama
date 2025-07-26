@@ -7,6 +7,8 @@ Krazy vibe coder
  
 <img align="center" src="cat-typing.gif" width="100" />
   </div>
+</br>
+  
   <div align="center">
     <a href="https://hits.sh/github.com/hikusama/hikusama/" target="_blank">
       <img 
@@ -14,7 +16,6 @@ Krazy vibe coder
         alt="Visitor Count" />
     </a>
   </div>
-<br>
 
   ## ⚡️ Stats
 
