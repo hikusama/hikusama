@@ -2,8 +2,10 @@
 Krazy vibe coder 
 </h2>
 
+  <div align="center">
  
 <img align="center" src="cat-typing.gif" width="100" />
+  </div>
 
   <div align="center">
     <p>Visitor Count</p>
