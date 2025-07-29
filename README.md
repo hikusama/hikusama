@@ -24,9 +24,10 @@ Krazy vibe coder
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hikusama&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Hikusama's" />
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=Hikusama&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Hikusama's streak" />
 </div>
+
 
 <hr>
 
