@@ -17,16 +17,7 @@ Krazy vibe coder
     </a>
   </div>
 
-<div align=center>
 
-  <h2>⚡️ Stats </h2>
-  </div>
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hikusama&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Hikusama's" />
-</div>
 
 
 <hr>
