@@ -17,7 +17,6 @@ Krazy vibe coder
   </div>
 
 <div align=center>
-
   <h2>⚡️ Stats </h2>
   </div>
 <br>
