@@ -1,5 +1,5 @@
 <h2 align="center">
-Krazy vibe coder 
+Rush mubs
 </h2>
 
 </br>
