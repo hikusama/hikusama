@@ -9,11 +9,9 @@ Rush mubs
 </br>
   
   <div align="center">
-    <a href="https://hits.sh/github.com/hikusama/hikusama/" target="_blank">
-      <img 
-        src="https://hits.sh/github.com/hikusama/hikusama.svg?style=flat-square&label=Visitors&color=00cc88&labelColor=222222" 
-        alt="Visitor Count" />
-    </a>
+<a href="https://hits.sh/github.com/hikusama/hikusama/">
+  <img alt="Hits" src="https://hits.sh/github.com/hikusama/hikusama.svg?view=today-total&label=Visitors&color=ff9100&labelColor=008ff8&logo=beatsbydre"/>
+</a>
 </div>
 <div align=center>
   <h2>⚡️ Stats </h2>
