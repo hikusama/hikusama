@@ -7,11 +7,16 @@ Rush mubs
 <img align="center" src="cat-typing.gif" width="100" />
   </div>
 </br>
-  
   <div align="center">
 <a href="https://hits.sh/github.com/hikusama/hikusama/">
   <img alt="Hits" src="https://hits.sh/github.com/hikusama/hikusama.svg?view=today-total&label=Visitors&color=ff9100&labelColor=008ff8&logo=beatsbydre"/>
 </a>
+<div align="center">
+  <img 
+    src="https://hit.yhype.me/github/profile?account_id=147336831&style=flat&color=orange" 
+    alt="Profile Views"
+  />
+</div>
 </div>
 <div align=center>
   <h2>⚡️ Stats </h2>
